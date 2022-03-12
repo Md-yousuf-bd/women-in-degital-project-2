@@ -5,6 +5,12 @@
 .bg-color{
     background-color:#5B10AC;
 }
+.color{
+    color: #5B10AC;
+}
+.header-bgc{
+   background-color: #000000;
+}
 a:hover{
     border-bottom: 1px solid #fe9900;   
     
